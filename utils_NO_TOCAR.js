@@ -7,6 +7,7 @@ const statsNames = {
 };
 
 // NO TOCAR
+
 function createPokemonCard(pokemon, order) {
   const body = document.querySelector("main");
   const cardContainer = document.createElement("div");
@@ -47,6 +48,7 @@ function createPokemonCard(pokemon, order) {
 
   body.appendChild(cardContainer);
 }
+
 
 // NO TOCAR
 async function getPokemonData(name) {
