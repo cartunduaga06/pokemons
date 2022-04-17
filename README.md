@@ -1,4 +1,5 @@
 # Pokemons! <img src="https://image.flaticon.com/icons/png/512/287/287221.png" width='25px'>
+# https://cartunduaga06.github.io/pokemons/
 
 Esta actividad, consiste en utilizar barras de progreso para indicar las distintas habilidades de cada pokemon. Para ello, partiendo de un listado de pokemons, deberás manipular cada una de las cards creadas para mostrar la imagen del pokemon y, además, poder rellenar cada una de las barras de habilidades con la cantidad que corresponde a cada habilidad.
 
